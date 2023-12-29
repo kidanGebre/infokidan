@@ -152,6 +152,7 @@ a {
 }
 
 .info ul {
+  width:50%;
   background-color: darkcyan;
   padding: 1rem;
   position: relative;
