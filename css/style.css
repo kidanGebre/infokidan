@@ -152,11 +152,12 @@ a {
 }
 
 .info ul {
-  width:50% !important;
+  width:40% !important;
   background-color: darkcyan;
   padding: 1rem;
   position: relative;
   margin-left:50%;
+  margin-right:10%
   margin-bottom: 20px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -293,7 +294,7 @@ a {
     overflow: auto;
   }
   .info ul {
-    margin-bottom: 0px;
+    margin:0% ;
     width: 100%;
     height: 100%;
     grid-column: 2/3;
