@@ -156,7 +156,7 @@ a {
   background-color: darkcyan;
   padding: 1rem;
   position: relative;
-  margin-left:auto;
+  margin-left:50%;
   margin-bottom: 20px;
   display: -webkit-box;
   display: -ms-flexbox;
